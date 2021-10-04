@@ -85,16 +85,9 @@ module.exports = {
   },
   footerLinks: [
     {
-      name: "Linkedin",
-      url: "https://www.linkedin.com/in/cassigs/",
-    },
-    {
-      name: "Github",
-      url: "https://github.com/CassiGS",
-    },
-    {
-      name: "Email",
-      url: "mailto:ccgall@gmail.com",
+      name: "Built with Gatsby + Gatsby Theme Portfolio Minimal",
+      url:
+        "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal",
     },
   ],
 }

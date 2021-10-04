@@ -124,7 +124,7 @@ const StyledProject = styled(motion.div)`
     justify-content: space-between;
     flex-shrink: 1;
     max-width: 62.5rem;
-    margin-bottom: 10rem;
+    margin-bottom: 0;
     padding-right: 0;
     /* Positioning of image and details should vary */
     flex-direction: ${({ position }) =>
