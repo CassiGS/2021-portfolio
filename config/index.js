@@ -97,4 +97,4 @@ module.exports = {
       url: "mailto:ccgall@gmail.com",
     },
   ],
-};
+}
